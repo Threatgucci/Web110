@@ -1,0 +1,47 @@
+/* Flash Scott */
+body {
+  background-color: #d6c4a3;  
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+
+header nav {
+  padding: 0px 0px 10px;
+  background-color: #d6c4a3;
+  font-size: 1.1em;
+}
+
+header h1 {
+  background-color: #006633; 
+  color: white;
+  text-align: center;
+  font-style: italic;
+  padding: 15px;
+  margin: 0;
+}
+
+
+main {
+  padding: 20px;
+}
+
+.hours {
+  color: #c00000;  
+  font-weight: bold;
+}
+
+.note {
+  background-color: #fff;
+}
+
+
+footer {
+  background-color: #b30000;  
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  padding: 10px 0;
+}
