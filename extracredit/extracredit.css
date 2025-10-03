@@ -1,0 +1,57 @@
+
+body {
+    background-color: #fffcfc;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: darkred;
+    font-style: italic;
+}
+
+h3 {
+    color: darkgreen;
+}
+
+
+h4, h5 {
+    color: purple;
+    font-weight: bold;
+}
+
+
+body h6 {
+    color: gray;
+    text-transform: uppercase;
+}
+
+
+.highlight {
+    background-color: yellow;
+    padding: 3px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.image-style {
+    display: block;
+    margin: 20px auto;
+    border: 3px solid #333;
+    border-radius: 8px;
+}
+
+.border{
+    border-bottom: 5px solid blue;
+}
+
+.intro{
+    background-color: grey;
+}
